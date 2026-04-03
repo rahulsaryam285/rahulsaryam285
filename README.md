@@ -29,11 +29,11 @@
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsaryam285&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulsaryam285)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsaryam285)
 
 ## 🏅 Badges
 
