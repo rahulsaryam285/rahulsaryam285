@@ -18,7 +18,7 @@
 
 ## 💼 About Me
 
-🚀 Senior Flutter Developer with **4.6+ years of experience** building scalable mobile & web applications.  
+🚀 Senior Flutter Developer with **5 years of experience** building scalable mobile & web applications.  
 📱 Expertise in **Flutter, Clean Architecture, and real-time systems**  
 🤖 Currently working on **AI SaaS platforms (HealthFiles.ai & LawFiles.ai)**  
 📦 Published multiple packages on pub.dev  
